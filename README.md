@@ -1,4 +1,4 @@
-### **📄 README.md **  
+### **📄 README **  
 ### **WeatherApp**  
 A C++ weather application that fetches real-time weather data from **OpenWeatherMap API** and displays it in a **GUI using ImGui**. The project uses **multithreading** to keep the UI responsive while fetching data asynchronously.  
 
