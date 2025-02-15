@@ -104,3 +104,4 @@ void WeatherClient::stopFetching() {
         weatherThread.join();
     }
 }
+ECHO is on.

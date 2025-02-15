@@ -86,3 +86,4 @@ void WeatherUI::showWindow(const std::string& weatherData) {
     glfwDestroyWindow(window);
     glfwTerminate();
 }
+ECHO is on.

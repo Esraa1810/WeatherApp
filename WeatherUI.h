@@ -10,3 +10,4 @@ public:
 };
 
 #endif  // WEATHERUI_H
+ECHO is on.
